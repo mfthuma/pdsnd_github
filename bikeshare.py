@@ -1,7 +1,10 @@
 import time
 import pandas as pd
 import numpy as np
+#This file is actually the template file; I submitted the code through the terminal in that project.
+#I figure this template is fine for this git project anyway :-)
 
+#This reads in the three data files
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
