@@ -2,7 +2,7 @@
 12/8/2018
 
 ### Project Title
-Replace the Project Title
+Michelle's Fabulous Git Project
 
 ### Description
 Describe what your project is about and what it does
