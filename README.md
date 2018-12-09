@@ -5,7 +5,7 @@
 Michelle's Fabulous Git Project
 
 ### Description
-Describe what your project is about and what it does
+This project determines important stats for the bikeshare program.
 
 ### Files used
 bikeshare.py
